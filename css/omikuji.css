@@ -1,0 +1,22 @@
+body{
+    background-color: lightyellow;
+}
+header{
+    background-color: gray;
+    background-size: cover;
+}
+h1{
+    color: gray;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+}
+div{
+    padding-top: 20px;
+    text-align: center;
+}
+.btn{
+    box-shadow: 2px 2px black;
+}
